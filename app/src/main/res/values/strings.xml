@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">مسلسلات</string>
+    <string-array name="mainstring">
+        <item>مسلسلات سورية</item>
+        <item>مسلسلات الدراما</item>
+        <item>مسلسلات كوميديا</item>
+        <item>مسلسلات دراما كلاسيكية</item>
+        <item>مسلسلات مصرية</item>
+        <item>مسلسلات سورية كلاسيكية</item>
+    </string-array>
+</resources>
